@@ -1,3 +1,9 @@
+### Fetch NFTs by Address
+
+![Homepage](https://user-images.githubusercontent.com/64327599/214326430-7a2c9744-146e-4b21-b899-83fe597ff440.png)
+
+![Connected Wallet](https://user-images.githubusercontent.com/64327599/214326404-b359b8a5-efe8-4c8a-9f30-4f3cd72d5ef0.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
